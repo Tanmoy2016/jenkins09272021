@@ -1,6 +1,5 @@
 #/bin/bash
-type=$1
-echo "This is $type project"
+echo "This is development project"
 echo "Hi Tanmoy"
 ls -l
 df -h
