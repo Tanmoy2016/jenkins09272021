@@ -1,5 +1,5 @@
 #/bin/bash
 type=$1
 echo "This is $type project"
-ls
+ls -l
 df -h
